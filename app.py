@@ -10,4 +10,4 @@ instance=Calculadora()
 
 resultado=instance.sumar(10,19)
 
-print ("la suma es:", resultado) #Kathy master
+print ("la suma es:", resultado) #Kathy develop
